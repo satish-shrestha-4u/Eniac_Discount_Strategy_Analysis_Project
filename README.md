@@ -1,9 +1,9 @@
 # Eniac-Discount-Strategy-Analysis
 Python and Pandas case study analysing whether product discounts benefit Eniac.
 
-This project is a Python and Pandas case study completed as part of my Data Science & AI learning journey.
+This project is a Python and Pandas case study group project completed by Sarah, Satish, and Julien.
 
-The goal of the project is to analyse whether offering product discounts is beneficial for Eniac, an e-commerce company specialising in Apple products and curated tech accessories.
+The goal of the project is to analyse whether product discounts benefit Eniac, an e-commerce company specialising in Apple products and curated tech accessories.
 
 ## Business Context
 
@@ -66,7 +66,7 @@ This project focuses on cleaning messy e-commerce data and analysing discount be
 
 Before answering the business questions, the data required cleaning because it contained inconsistencies and possible corruption issues.
 
-This project therefore, focuses first on assessing data quality, handling messy data, and making the dataset reliable enough for analysis.
+This project therefore focuses first on assessing data quality, handling messy data, and making the dataset reliable enough for analysis.
 
 ## Repository Structure
 
